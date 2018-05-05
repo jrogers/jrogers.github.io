@@ -1,4 +1,2 @@
 .DS_Store
-.firebaserc
-firebase-debug.log
-public/images/originals/
+images/originals/
