@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/jrogers
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jrogers.ca
+  * I am jrogers (https://keybase.io/jrogers) on keybase.
+  * I have a public key with fingerprint 08DF 33B0 FBEE DD59 B8F5  E019 B9B6 AAE6 73B7 7F5D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f9dc7516a91c68f890f2ba3b6c809c8b82acb451c4a5299c8d193514012668fd0a",
+      "fingerprint": "08df33b0fbeedd59b8f5e019b9b6aae673b77f5d",
+      "host": "keybase.io",
+      "key_id": "b9b6aae673b77f5d",
+      "kid": "0101c5256b73fe2b6330808b711f27cdb673b9dec54c51021e8cce7a98dde16cbf300a",
+      "uid": "8443129d322163fb8d198af456818319",
+      "username": "jrogers"
+    },
+    "merkle_root": {
+      "ctime": 1525646788,
+      "hash_meta": "15de0141cc0c8e8629289cd63940ab2c8aa3a21d6a97f903e3cf9429173485ae",
+      "seqno": 2493847
+    },
+    "revoke": {
+      "sig_ids": [
+        "738ee3ced0a26622c2dc572dfa803097ae205ab232600c29d5c8f178adcccd880f"
+      ]
+    },
+    "service": {
+      "hostname": "jrogers.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1525646811,
+  "expire_in": 157680000,
+  "prev": "5592368af16cabd6597fbbde484b508171fae3d61d407343b03b0c16a6a053c4",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMP2AnicbVN7bBRFHL7Kq5QgCsbQQhtYSDDQ4Mzsa/YIaWOwkRJsDUURKNfZmdl2
+ud5tuTuKFC8VaRWwQOVh01RSFaU8S4BY6oNnLPLQPwqSIqClPIrGo6VoWx6SOtto
+CImbTTb7y/d9v+/3/Wa+Gz7AkxD3VcOu9vCh0ty4syfCSz3zO8svr5BMhy2XvCsk
+P+//8ELGwxGf32aSVwIQQMtgVFehRgxINWxhA1jIJLKpUQwMik2MCDUVFVKFqMgQ
+FQYNWYUKgEgTeAaIlCpZdjCfh4pCdjDiymJmybIJLJNzxlTDxJbKATRMw9QI4Zou
+m7puqUwQC5ywyxDmTBLmU21H1MSPr9/e/+Af+6YqUjVTly2OTE2WAQbY1CG0kE6Z
+6VIMxqmqUBUCBDmmlOvEwIxxqFHTkkG/76X9clhRZIgMJiMENdky3RExsRRVwxDL
+0HCBYR4KkgAX6MUhR8walqKpUoCH/IXcF3KciJstjdguArrOFE3HWMxHwgW+AI8Q
+QYQqEykokFJAMccaMhA2KNNkQwHERBQTIhMEmViFbhlA5jK1DAUZUJcVrBIubIT5
+kqAjeZFiyFjRhYMQL3b83G0etvNFamHJu0DSZcwFmYvdiB0hRBGjqo6YRTCQgaET
+joAqOspIA4CKwVWKLahjwiilDGNgSblRt1mo2Kb94u6anhx/KnXzKwo5EYc6haJe
+EIkUhb1uKpHlRS5wGTd9/0r4TDvIxBERjGLBtZ2gSEkgnwwMQ5gq8beK7BD32S5C
+1TUMxOP24cVCUlUNJGtiNWKHxGSaKoIyTcYVrJgqwFCHFuEy0yBTgAhNHEHxUnG2
+NQJUmSqPE5R14ZPkC02RW5BEloa4FD1xfOFAT1yCZ/Cgp9y740kY+sx/N2ph1oi+
+QmVyyoQdc8+fb6fxmTWJ9/YmxG/afHxVR0rNlMIX5m776dtjmwovrh99MxO9tH9I
+XePa9oMjr3yRVRILVBSvP7VlXaTn+0TPoJcrl/TZv5V33ljTFMx85HkxMT1/6vMN
+FbGqr8/FBzxj/wZ/rHm689nxVU1z3h83vLRubN6ygxtHZRz76PLOuLa3s/yvr99q
+jPwQxfm7y/bbybGKuzeCa1ef/Xz5D3kHHtwvT/Y7l3/+rGT6yfKafRvObD89vGx/
+WZP9yrvjukesSc8sy7/Nm2tjNog2T2nravPebs3eTE51z8i9Ns83JP3iosPtv3hj
+rSe79pa1zGqh26TKK3Tmq/yvaTdL/gRWx+6uYb6P0Qd6mjONDPoxlOT9pm5xwUxP
+dF3XhRGV2QULxya+t9KTd6GvNWd0y/SMxgAvcZ6qP+JfHZ3VFd15K8/om407JjZU
+J1+aY3y6c0d148QT16MtB77Uz/c4Wx9+Unp0YHX5nUeT1Am+SM/vOQ9qFwzZ03tm
+QGt2bcLGUWNWj24aXLUuvv767ru9G+a1BbqTUq7dmbjlsCc2YG7S3jdzrrYXjbm5
+ryrjVq/efCw9417lOzsm16bFfr0/rCZ5YD08MqveyD2UAy7l6jMaaceS166Nrzvj
+udfR88Za9jCLbT/3YGjz1d49z81Pqc6uWGU1jO9MW3Q09XRa6cpdi6YVzE5SasOl
+k7ZG/wECeAuC
+=6nm9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jrogers
+
+==================================================================
